@@ -1,5 +1,5 @@
 /***************************************/
-let guildID = "808661332937015316"
+let guildID = "994834305320759337"
 let newservername = "NUKED L !!"
 
 let emojis = true;
